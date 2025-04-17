@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hashirsakimdad
 - 👀 I’m interested in python, machine learning
-- 🌱 I’m currently learning python  
+- 🌱 I’m currently working on python  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  
 - 😄 Pronouns: ...
