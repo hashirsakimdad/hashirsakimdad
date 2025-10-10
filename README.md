@@ -608,40 +608,110 @@ Let's network!
 
 ## 💡 BEYOND THE CODE
 
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+
+**When I'm not coding, I'm exploring the world of creativity, innovation, and endless possibilities!**
+
 </div>
+
+<br>
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="50%" valign="top">
 
-### 🕹️
-**Anime & Gaming**  
-Exploring virtual worlds  
-and storytelling through games
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="280">
 
-</td>
-<td align="center" width="25%">
+### 🕹️ Anime & Gaming Enthusiast
 
-### 💡
-**AI Research**  
-Staying at the forefront  
-of AI innovations
+**My Creative Escape**
 
-</td>
-<td align="center" width="25%">
+I dive into virtual worlds, explore immersive storylines, and appreciate the art of game design. From strategic gameplay to narrative-driven adventures, gaming fuels my creativity and problem-solving skills.
 
-### 🎨
-**Tech Art & UI/UX**  
-Creating futuristic  
-visual experiences
+```python
+favorite_genres = ["RPG", "Strategy", "Adventure"]
+current_obsession = "AI in Gaming 🎮"
+```
+
+**What I Love:**
+- 🎬 Anime storytelling & character development
+- 🎮 Game mechanics & AI behavior
+- 🎨 Visual effects & cinematics
+- 🧩 Puzzle-solving & strategy
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="50%" valign="top">
 
-### ⚙️
-**Automation**  
-Building systems that  
-work while you sleep
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="280">
+
+### 💡 AI Research & Innovation
+
+**My Passion for Learning**
+
+I'm constantly exploring the latest breakthroughs in AI, machine learning, and computer vision. Reading research papers, experimenting with new algorithms, and staying ahead of the curve is my jam!
+
+```python
+research_interests = ["Computer Vision", "Deep Learning", "NLP"]
+always_learning = True
+```
+
+**Current Focus:**
+- 📚 Reading AI research papers
+- 🔬 Experimenting with new models
+- 🧠 Neural architecture design
+- 🚀 Implementing cutting-edge tech
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41a2-99e8-5dedf4b21a9e.gif" width="280">
+
+### 🎨 Tech Art & UI/UX Design
+
+**Where Code Meets Beauty**
+
+I believe technology should not only work well but look stunning too! I love creating futuristic interfaces, smooth animations, and visually appealing designs that make users go "WOW!"
+
+```css
+.my_style {
+  aesthetic: futuristic;
+  animation: smooth;
+  user-experience: seamless;
+}
+```
+
+**Design Philosophy:**
+- 🌌 Futuristic & minimalist design
+- ✨ Smooth animations & transitions
+- 🎯 User-centric approach
+- 🎨 Color theory & visual hierarchy
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280">
+
+### ⚙️ Automation & Smart Systems
+
+**Making Life Easier**
+
+I'm obsessed with building systems that automate boring tasks, save time, and work autonomously. If it can be automated, I'll find a way to do it!
+
+```javascript
+while (task.isBoring()) {
+  automate(task);
+  optimizeWorkflow();
+  enjoyCoffee(); ☕
+}
+```
+
+**Automation Goals:**
+- 🤖 Smart bots & scripts
+- ⚡ Workflow optimization
+- 🔄 Continuous automation
+- 💤 Systems that work 24/7
 
 </td>
 </tr>
@@ -651,25 +721,130 @@ work while you sleep
 
 <div align="center">
 
-## 💭 MY VISION
+## 💭 MY VISION & PHILOSOPHY
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
 
 </div>
 
-```javascript
-const myJourney = {
-  passion: "Turning AI concepts into real solutions that matter",
-  belief: "Code is not just logic — it's creativity and problem-solving",
-  goal: "Build intelligent systems that can truly see and understand",
-  approach: "Learn by doing, fail fast, iterate faster",
-  dream: "Create AI that makes people's lives easier and better",
-  
-  motto: () => {
-    return "Learning today, building the future tomorrow";
-  }
-};
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-console.log("One project at a time, one skill at a time. 🚀");
+### 🎯 What Drives Me
+
+```javascript
+const myDrive = {
+  passion: "Turning AI concepts into real solutions",
+  belief: "Code is creativity + logic",
+  approach: "Learn by doing, fail fast",
+  goal: "Build systems that truly understand",
+  impact: "Make lives easier with technology"
+};
 ```
+
+<br>
+
+<div align="center">
+
+**My Core Values**
+
+</div>
+
+🔥 **Passion Over Perfection**  
+Start with passion, iterate towards perfection. Every project teaches something new.
+
+💡 **Innovation Through Learning**  
+The best way to predict the future is to build it, one line of code at a time.
+
+🚀 **Impact Over Impressions**  
+Code that solves real problems is more valuable than code that just looks good.
+
+🌱 **Growth Mindset**  
+Every bug is a lesson, every challenge is an opportunity to level up.
+
+</td>
+<td width="50%" valign="top">
+
+### 🛤️ My Journey Roadmap
+
+```mermaid
+Learning Path → Building Projects → Gaining Experience
+     ↓              ↓                    ↓
+  Student      Freelancer           AI Engineer
+```
+
+<br>
+
+**📍 Where I Am Now:**
+```yaml
+Status: AI Student & Freelance Developer
+Focus: Computer Vision & Machine Learning
+Goal: Becoming an AI Engineer
+```
+
+**🎯 Short-term Goals (2024-2025):**
+- ✅ Master advanced computer vision techniques
+- ✅ Build 20+ real-world AI projects
+- ✅ Contribute to open-source AI projects
+- ✅ Expand freelance portfolio
+- ✅ Learn production ML deployment
+
+**🚀 Long-term Vision (2025+):**
+- 🎓 Complete BS in Artificial Intelligence
+- 💼 Work on cutting-edge AI research
+- 🌍 Build AI solutions that impact millions
+- 🤝 Collaborate with AI pioneers
+- 📚 Maybe pursue AI research/Masters
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 💬 My Developer Motto
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Learning+today%2C+building+the+future+tomorrow;One+project+at+a+time%2C+one+skill+at+a+time;Fail+fast%2C+learn+faster%2C+build+better" alt="Typing Animation" />
+
+</div>
+
+<br>
+
+<table align="center" width="90%">
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100">
+<br>
+<b>Continuous Learning</b>
+<br>
+<sub>Never stop improving</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<br>
+<b>Build & Ship</b>
+<br>
+<sub>Ideas to reality</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<br>
+<b>Problem Solving</b>
+<br>
+<sub>Every bug is a puzzle</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+<br>
+<b>Innovation</b>
+<br>
+<sub>Think differently</sub>
+</td>
+</tr>
+</table>
 
 ---
 
