@@ -488,13 +488,117 @@ Key Skills Developed:
 
 <div align="center">
 
-## 🌐 CONNECT WITH ME
+## 🌐 LET'S CONNECT & COLLABORATE!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hashirsakimdad)
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+**I'm always excited to work on innovative projects and connect with fellow developers!**
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 💼 Hire Me for Projects
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" height="80" />
+
+**Looking for AI/ML expertise?**  
+Let's build something amazing!
+
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me%20Now-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/hashirsakimdad)
+
+```yaml
+💰 Competitive Rates
+⚡ Quick Response
+🎯 Quality Guaranteed
+```
+
+</td>
+<td align="center" width="33%">
+
+### 💬 Quick Chat
+
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="80" height="80" />
+
+**Need immediate assistance?**  
+Message me directly!
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923415435266)
+
+```yaml
+📱 +92 341 5435266
+💬 24/7 Response
+🚀 Let's Talk Ideas
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🤝 Professional Network
+
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" height="80" />
+
+**Want to connect professionally?**  
+Let's network!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashir-sakimdad-8bbb22299/)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/hashirsakimdad)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923415435266)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashirsakimdad@gmail.com)
+
+```yaml
+🌐 Professional Profile
+🤝 Networking Ready
+💼 Open to Opportunities
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 📬 Other Ways to Reach Me
+
+<p>
+<a href="https://github.com/hashirsakimdad">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:hashirsakimdad@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.fiverr.com/hashirsakimdad">
+  <img src="https://img.shields.io/badge/Portfolio-00FFF0?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</p>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### 📊 Social Presence
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/github/followers/hashirsakimdad?label=GitHub%20Followers&style=social" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Response%20Time-Under%2024h-success?style=flat-square" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Availability-Open%20for%20Work-brightgreen?style=flat-square" />
+</td>
+</tr>
+</table>
+
+<br>
+
+> **"Got a project idea? Let's turn it into reality!"** 💡  
+> Drop me a message and let's discuss how we can work together.
 
 </div>
 
