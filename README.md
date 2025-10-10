@@ -629,15 +629,19 @@ Let's network!
 I dive into virtual worlds, explore immersive storylines, and appreciate the art of game design. From strategic gameplay to narrative-driven adventures, gaming fuels my creativity and problem-solving skills.
 
 ```python
-favorite_genres = ["RPG", "Strategy", "Adventure"]
-current_obsession = "AI in Gaming 🎮"
+gaming_profile = {
+    "favorite_genres": ["RPG", "Strategy", "Adventure"],
+    "current_obsession": "AI in Gaming 🎮",
+    "play_style": "Strategic + Story-driven",
+    "inspiration": "Game design principles for AI"
+}
 ```
 
 **What I Love:**
-- 🎬 Anime storytelling & character development
-- 🎮 Game mechanics & AI behavior
-- 🎨 Visual effects & cinematics
-- 🧩 Puzzle-solving & strategy
+- 🎬 **Anime storytelling** & character development
+- 🎮 **Game mechanics** & AI behavior patterns  
+- 🎨 **Visual effects** & cinematic experiences
+- 🧩 **Puzzle-solving** & strategic thinking
 
 </td>
 <td align="center" width="50%" valign="top">
@@ -733,69 +737,101 @@ while (task.isBoring()) {
 
 ### 🎯 What Drives Me
 
-```javascript
-const myDrive = {
-  passion: "Turning AI concepts into real solutions",
-  belief: "Code is creativity + logic",
-  approach: "Learn by doing, fail fast",
-  goal: "Build systems that truly understand",
-  impact: "Make lives easier with technology"
-};
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200">
+</div>
+
+```python
+class MyDrive:
+    def __init__(self):
+        self.passion = "Turning AI concepts into real solutions"
+        self.belief = "Code is creativity + logic"
+        self.approach = "Learn by doing, fail fast"
+        self.goal = "Build systems that truly understand"
+        self.impact = "Make lives easier with technology"
+        
+    def motivate(self):
+        return "Every project is a step forward!"
 ```
 
 <br>
 
-<div align="center">
+**🔥 My Core Values:**
 
-**My Core Values**
-
-</div>
-
-🔥 **Passion Over Perfection**  
-Start with passion, iterate towards perfection. Every project teaches something new.
-
-💡 **Innovation Through Learning**  
-The best way to predict the future is to build it, one line of code at a time.
-
-🚀 **Impact Over Impressions**  
-Code that solves real problems is more valuable than code that just looks good.
-
-🌱 **Growth Mindset**  
-Every bug is a lesson, every challenge is an opportunity to level up.
+<table width="100%">
+<tr>
+<td width="50%">
+• **Passion Over Perfection**<br>
+<sub>Start with passion, iterate towards perfection</sub>
+</td>
+<td width="50%">
+• **Innovation Through Learning**<br>
+<sub>Build the future, one line at a time</sub>
+</td>
+</tr>
+<tr>
+<td width="50%">
+• **Impact Over Impressions**<br>
+<sub>Code that solves real problems</sub>
+</td>
+<td width="50%">
+• **Growth Mindset**<br>
+<sub>Every bug is a lesson to learn</sub>
+</td>
+</tr>
+</table>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛤️ My Journey Roadmap
 
-```mermaid
-Learning Path → Building Projects → Gaining Experience
-     ↓              ↓                    ↓
-  Student      Freelancer           AI Engineer
-```
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+</div>
 
-<br>
-
-**📍 Where I Am Now:**
+**📍 Current Status:**
 ```yaml
-Status: AI Student & Freelance Developer
+Role: AI Student & Freelance Developer
 Focus: Computer Vision & Machine Learning
+Location: Learning → Building → Growing
 Goal: Becoming an AI Engineer
 ```
 
-**🎯 Short-term Goals (2024-2025):**
-- ✅ Master advanced computer vision techniques
-- ✅ Build 20+ real-world AI projects
-- ✅ Contribute to open-source AI projects
-- ✅ Expand freelance portfolio
-- ✅ Learn production ML deployment
+**🎯 My Progress Path:**
 
-**🚀 Long-term Vision (2025+):**
-- 🎓 Complete BS in Artificial Intelligence
-- 💼 Work on cutting-edge AI research
-- 🌍 Build AI solutions that impact millions
-- 🤝 Collaborate with AI pioneers
-- 📚 Maybe pursue AI research/Masters
+<table width="100%">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Student-AI%20Learning-blue?style=flat-square" />
+<br>
+<sub>2023-2024</sub>
+</td>
+<td align="center">
+→
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Freelancer-Building%20Projects-green?style=flat-square" />
+<br>
+<sub>2024-2025</sub>
+</td>
+<td align="center">
+→
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Engineer-AI%20Expert-red?style=flat-square" />
+<br>
+<sub>2025+</sub>
+</td>
+</tr>
+</table>
+
+**🚀 Goals 2024-2025:**
+- 🎯 Master advanced computer vision
+- 💼 Build 20+ real-world projects
+- 🌐 Contribute to open-source
+- 📈 Expand freelance portfolio
+- 🚀 Learn production deployment
 
 </td>
 </tr>
