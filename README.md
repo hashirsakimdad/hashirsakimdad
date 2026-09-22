@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+Systems+That+See%2C+Think+%26+Adapt;Transforming+Vision+Into+Reality+With+Code;Where+Artificial+Intelligence+Meets+Innovation" alt="Typing Animation" />
 
 <br/>
-
+ 
 <!-- Professional Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=hashirsakimdad&color=00FFF0&style=for-the-badge&label=PROFILE+VIEWS)
 ![Status](https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20FREELANCE-00FF00?style=for-the-badge&labelColor=0D1117)
