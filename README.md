@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=HASHIR%20SAKIMDAD&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20|%20Computer%20Vision%20Developer%20|%20Aspiring%20Innovator&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Dynamic Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+Systems+That+See%2C+Think+%26+Adapt;Transforming+Vision+Into+Reality+With+Code;Where+Artificial+Intelligence+Meets+Innovation" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+Systems+That+See%2C+Think+%26+Adapt;Transforming+Vision+Into+Reality+With+Code;Where+Artificial+Intelligence+Meets+Innovation" alt="Typing Animation" />
 
 <br/>
 
@@ -63,7 +63,7 @@ I'm currently pursuing my **Bachelor's in Artificial Intelligence**, specializin
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,flask,django,fastapi,opencv" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,docker,mysql,mongodb,postgres,unity,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,git,docker,gcp,vercel,mysql,mongodb,postgres,unity,vscode,github" />
 </p>
 
 <div align="center">
@@ -418,6 +418,186 @@ Player Rating:    ███████████████████░�
 
 </details>
 
+<!-- Project 9: AI Recruitment Assistant -->
+<details open>
+<summary><h3>🧑‍💼 AI-Powered Recruitment Assistant - Full-Stack Hiring Platform</h3></summary>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![Complexity](https://img.shields.io/badge/Complexity-Advanced-red?style=flat-square)
+![Category](https://img.shields.io/badge/Category-Full--Stack%20AI-blue?style=flat-square)
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/hashirsakimdad/AI-Powered-Recruitment-Assistant)
+
+</div>
+
+**🎯 Project Overview:**  
+Production-grade Flask platform where recruiters post jobs and rank candidates while applicants get instant resume scoring, feedback, and application tracking.
+
+**🛠️ Tech Stack:**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SentenceTransformers-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/>
+</p>
+
+**✨ Key Features:**
+- 🧠 Semantic Resume Scoring with SentenceTransformers
+- 🗂️ Role-Based Recruiter & Applicant Dashboards
+- ⚙️ Background Resume Processing with Live Status
+- 🔒 CSRF Protection, Rate Limiting & Password Policies
+- 📊 CSV/PDF Reporting & Email Notifications
+- ✅ Full Test Coverage with pytest + DB Migrations
+
+</details>
+
+---
+
+<!-- Project 10: HoloHome AI -->
+<details open>
+<summary><h3>🏠 HoloHome AI - Local-First Multi-Agent Home Assistant</h3></summary>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
+![Complexity](https://img.shields.io/badge/Complexity-Advanced-red?style=flat-square)
+![Category](https://img.shields.io/badge/Category-Multi--Agent%20AI-blueviolet?style=flat-square)
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/hashirsakimdad/Halo-Home-Ai)
+
+</div>
+
+**🎯 Project Overview:**  
+A Psycho-Pass-inspired holographic home assistant that runs **100% locally** — no paid APIs — with voice commands, gesture recognition, and six specialist agents working together.
+
+**🛠️ Tech Stack:**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ollama%20%2F%20Llama%203.2-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+**✨ Key Features:**
+- 🗣️ Voice Commands via Whisper + Vosk Wake-Word Detection
+- 🤖 Six Specialist Agents (Voice, Automation, Education, Scheduling, Design, Security)
+- 🧩 Agent Orchestration with LangGraph
+- 🧠 Persistent Memory via ChromaDB
+- 🔌 24/7 FastAPI Server with systemd Integration
+- 💸 Zero Cloud Dependency — Runs Entirely Offline
+
+</details>
+
+---
+
+<!-- Project 11: VisionAI -->
+<details open>
+<summary><h3>👁️ VisionAI - Real-Time Object Detection API</h3></summary>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Deployed-success?style=flat-square)
+![Complexity](https://img.shields.io/badge/Complexity-Intermediate-orange?style=flat-square)
+![Category](https://img.shields.io/badge/Category-Computer%20Vision-blue?style=flat-square)
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/hashirsakimdad/vision-ai)
+
+</div>
+
+**🎯 Project Overview:**  
+HTTP object-detection service powered by YOLOv8x that returns structured JSON with bounding boxes and confidence scores for uploaded images.
+
+**🛠️ Tech Stack:**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+**✨ Key Features:**
+- 📦 Structured JSON Output with Bounding Boxes & Confidence
+- 🖱️ Drag-and-Drop Web UI for Instant Inference
+- ⚙️ GPU Health Checks & Swagger API Docs
+- ☁️ Dockerized & Deployed on Hugging Face Spaces
+
+</details>
+
+---
+
+<!-- Project 12: Sukoon AI -->
+<details open>
+<summary><h3>💚 Sukoon AI - Mental Health Companion for Pakistan</h3></summary>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Deployed-success?style=flat-square)
+![Complexity](https://img.shields.io/badge/Complexity-Advanced-red?style=flat-square)
+![Category](https://img.shields.io/badge/Category-NLP%20%26%20Social%20Impact-brightgreen?style=flat-square)
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/hashirsakimdad/sukoon-Ai)
+
+</div>
+
+**🎯 Project Overview:**  
+A culturally-aware chatbot offering judgment-free emotional support in **Roman Urdu, Urdu & English**, built to help address the mental health stigma in Pakistan.
+
+**🛠️ Tech Stack:**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini%201.5%20Flash-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+**✨ Key Features:**
+- 🎭 Real-Time Emotion Detection Across 6 Emotions
+- 🌬️ Guided Breathing & 5-4-3-2-1 Grounding Exercises
+- 📈 Mood Tracking & Conversation History
+- 🎙️ Voice Input & Crisis Support Resources
+- 🌐 Trilingual Support (Roman Urdu / Urdu / English)
+
+</details>
+
+---
+
+<!-- Project 13: Face Recognition Attendance -->
+<details open>
+<summary><h3>🧑‍🤝‍🧑 Face Recognition Attendance System</h3></summary>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![Complexity](https://img.shields.io/badge/Complexity-Intermediate-orange?style=flat-square)
+![Category](https://img.shields.io/badge/Category-Computer%20Vision-blue?style=flat-square)
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/hashirsakimdad/Face-Recgonition)
+
+</div>
+
+**🎯 Project Overview:**  
+Camera-based attendance system that detects and recognizes faces in real time, automatically logging timestamped records to CSV — no manual roll call needed.
+
+**🛠️ Tech Stack:**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/face__recognition-FF6B6B?style=for-the-badge"/>
+</p>
+
+**✨ Key Features:**
+- 📷 Real-Time HOG-Based Face Detection & Deep-Learning Encoding
+- 📁 Automatic CSV Export with Timestamps
+- 🎨 Color-Coded Confidence Feedback + Live FPS Metrics
+- 🔒 Fully Local Processing — No Cloud, No Privacy Trade-Offs
+- 👥 Built with a 5-Person Team, MIT Licensed
+
+</details>
+
 <br>
 
 <div align="center">
@@ -439,7 +619,7 @@ Player Rating:    ███████████████████░�
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hashirsakimdad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFF0&icon_color=00FFF0&text_color=FFFFFF&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hashirsakimdad&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFF0&ring=00FFF0&fire=FF6D00&currStreakLabel=00FFF0&border_radius=10" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=hashirsakimdad&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFF0&ring=00FFF0&fire=FF6D00&currStreakLabel=00FFF0&border_radius=10" />
 
 </div>
 
@@ -570,7 +750,7 @@ Let's network!
 <a href="mailto:hashirsakimdad@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.fiverr.com/hashirsakimdad">
+<a href="https://github.com/hashirsakimdad/Portfolio">
   <img src="https://img.shields.io/badge/Portfolio-00FFF0?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </p>
@@ -813,7 +993,7 @@ Goal: Becoming an AI Engineer
 <td align="center">
 <img src="https://img.shields.io/badge/Freelancer-Building%20Projects-green?style=flat-square" />
 <br>
-<sub>2024-2025</sub>
+<sub>2024-2026</sub>
 </td>
 <td align="center">
 →
@@ -821,17 +1001,17 @@ Goal: Becoming an AI Engineer
 <td align="center">
 <img src="https://img.shields.io/badge/Engineer-AI%20Expert-red?style=flat-square" />
 <br>
-<sub>2025+</sub>
+<sub>2026+</sub>
 </td>
 </tr>
 </table>
 
-**🚀 Goals 2024-2025:**
-- 🎯 Master advanced computer vision
-- 💼 Build 20+ real-world projects
+**🚀 Goals 2026:**
+- 🎯 Ship multi-agent & local-first AI systems (HoloHome AI)
+- 💼 Grow the 13+ project portfolio with production-grade deployments
 - 🌐 Contribute to open-source
-- 📈 Expand freelance portfolio
-- 🚀 Learn production deployment
+- 📈 Expand freelance client base
+- 🚀 Master cloud-native ML deployment (Docker, GCP, Hugging Face Spaces)
 
 </td>
 </tr>
@@ -843,7 +1023,7 @@ Goal: Becoming an AI Engineer
 
 ### 💬 My Developer Motto
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Learning+today%2C+building+the+future+tomorrow;One+project+at+a+time%2C+one+skill+at+a+time;Fail+fast%2C+learn+faster%2C+build+better" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Learning+today%2C+building+the+future+tomorrow;One+project+at+a+time%2C+one+skill+at+a+time;Fail+fast%2C+learn+faster%2C+build+better" alt="Typing Animation" />
 
 </div>
 
@@ -896,17 +1076,6 @@ Goal: Becoming an AI Engineer
 
 <div align="center">
 
-### 📈 CODING ACTIVITY
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<div align="center">
-
 ## 🎯 OPEN FOR FREELANCE WORK
 
 ```yaml
@@ -938,7 +1107,7 @@ Project Types: Small | Medium | Long-term
 
 **"Learning never stops. Building never stops. Growing never stops."**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+learning%2C+always+growing.+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+learning%2C+always+growing.+🚀" />
 
 ---
 
